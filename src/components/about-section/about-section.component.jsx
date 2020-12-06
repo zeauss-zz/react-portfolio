@@ -1,5 +1,5 @@
 import home1 from "../../img/home1.png";
-import {About, Image, Description} from "../../styles";
+import { About, Image, Description } from "../../styles";
 
 const AboutSection = () => {
   return (
@@ -30,6 +30,5 @@ const AboutSection = () => {
     </About>
   );
 };
-
 
 export default AboutSection;
