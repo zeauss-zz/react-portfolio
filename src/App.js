@@ -1,7 +1,10 @@
+import AboutUs from "./pages/about-us/about-us.component";
+
+
 function App() {
   return (
     <div className="App">
-      <h1>Film</h1>
+      <AboutUs />      
     </div>
   );
 }
